@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Site launch!"
+title: "Site launch"
 date: 2020-12-28
 ---
 
 Let's begin.
 
-The first post is going to be about the configuration of my site, www.xpyx.fi.
+The first post is going to be about the motivation and purpose of my site, www.xpyx.fi.
 
 The webhosting is from [Suomen Hostingpalvelu Oy](https://www.hostingpalvelu.fi/) and I used
 [Jekyll](http://jekyllrb.com) to build it. I use [Markdown](https://en.wikipedia.org/wiki/Markdown) to author my posts.
+
+I will be using this site to host a plethora of links to subjects that interest me. I will try to do a blog post at
+least once a week.
+
+"Why all the trouble?", you might ask.
 
 I have had a dream about creating a blog about my professional interests and now that I have only 30 study points left
 to acquire and finish my bachelor's thesis I feel that the time is right to start a diary of some sort.
