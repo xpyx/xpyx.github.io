@@ -81,3 +81,25 @@ hr.cv {
     margin-top: 3em;
     color: #d5d5d5;
 }
+
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.column {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.column-left {
+    width: 20%;
+}
+
+.column-right {
+    width: 80%;
+}
