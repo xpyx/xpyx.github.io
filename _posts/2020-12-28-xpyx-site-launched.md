@@ -10,7 +10,7 @@ The very first post is about the purpose of my site [xpyx.fi](https://www.xpyx.f
 
 The web hosting is from [Suomen Hostingpalvelu Oy](https://www.hostingpalvelu.fi/) and I used
 [Jekyll](http://jekyllrb.com) to build the site with instructions from
-[Jonathan McGlone's](http://jmcglone.com/guides/github-pages/) absolutely superb instructions.
+[Jonathan McGlone's](http://jmcglone.com/guides/github-pages/) absolutely superb guide.
 
 I never used Jekyll before, but it took me only a bit over 30 mins to get everything up and running.
 
