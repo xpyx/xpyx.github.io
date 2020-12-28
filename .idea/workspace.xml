@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d06247d5-10c0-46a9-9d45-72242cd81b6c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/atom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -35,7 +33,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609161895862</updated>
-      <workItem from="1609161897106" duration="55000" />
+      <workItem from="1609161897106" duration="171000" />
     </task>
     <servers />
   </component>
@@ -43,9 +41,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="61" y="187" width="598" height="548" key="find.popup" timestamp="1609161940981">
+    <state x="161" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609162064056">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="61" y="187" width="598" height="548" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1609161940981" />
+    <state x="161" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1609162064056" />
+    <state x="61" y="187" width="598" height="548" key="find.popup" timestamp="1609162005590">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="61" y="187" width="598" height="548" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1609162005590" />
   </component>
 </project>
