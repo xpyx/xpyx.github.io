@@ -10,6 +10,9 @@ The first post is going to be about the motivation and purpose of my site, www.x
 
 The webhosting is from [Suomen Hostingpalvelu Oy](https://www.hostingpalvelu.fi/) and I used
 [Jekyll](http://jekyllrb.com) to build it. I use [Markdown](https://en.wikipedia.org/wiki/Markdown) to author my posts.
+I followed instructions from [Jonathan McGlone's](http://jmcglone.com/guides/github-pages/) absolutely superb post.
+
+Never used Jekyll before, but it took me only a little over 30 mins to get everything up and running.
 
 I will be using this site to host a plethora of links to subjects that interest me. I will try to do a blog post at
 least once a week.
