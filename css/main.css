@@ -16,6 +16,8 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
+    font-family: 'Montserrat', sans-serif;
+
 }
 a:hover {
     text-decoration: underline;
@@ -23,27 +25,41 @@ a:hover {
 
 li {
     color: #999;
+    font-family: 'Montserrat', sans-serif;
+
 }
 h1 {
     font-size: 5em;
     font-family: 'PT Serif', serif;
     padding: 0;
-    margin: 0;
+    margin: 0 0 0.2em 0;
 }
 h2 {
     font-size: 2em;
     font-family: 'PT Serif', serif;
 
+
 }
 h3 {
     font-size: 1.5em;
     font-family: 'PT Serif', serif;
+    padding: 0;
+    margin: 0 0 0.2em 0;
 }
-p, table {
-    font-family: 'Montserrat', sans-serif;
+
+h4 {
     font-size: 1.2em;
+    font-family: 'PT Serif', serif;
+    padding: 0;
+    margin: 0 0 1em 0;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1em;
     line-height: 1.2em;
     color: #333;
+    padding: 0;
+    margin: 0 0 1em 0;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -53,8 +69,15 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    font-family: 'Montserrat', sans-serif;
+
 }
 
 ul.posts li {
     list-style: none;
+}
+
+hr.cv {
+    margin-top: 3em;
+    color: #d5d5d5;
 }
