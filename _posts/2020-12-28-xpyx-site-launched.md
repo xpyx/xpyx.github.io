@@ -19,18 +19,20 @@ least once a week.
 I have had a dream about creating a blog about my professional interests and now that I have only 30 study points left
 to acquire and finish my bachelor's thesis I feel that the time is right to start a diary of some sort.
 
-I chose to write in English, because one of the points of this blog is to help people understand techniques to create
-something. I have had so much help for my productions and projects from blogs of other people, so it's time to start
-giving back to the community.
+I chose to write in English, because one of the reasons behind this blog is to help as many people as possible to
+understand different techniques to create something. I have had so much help for my productions and projects from blogs
+of other people, so it's time to start giving back to the community.
 
 I'm not anywhere near a professional developer, yet, but I have a LOT of enthusiasm and motivation for being able to
 build systems that enable people to create art and make people's lives easier. What I want to achieve in my upcoming
 professional career is to help earth survive humans that are actively trying to destroy the planet.
 
 I study in Metropolia University of Applied Sciences and I'm majoring in Mobile Application Developement. My strong
-background in music makes me want to combine developing and music production.
+background in music enables me to combine developing and music production.
 
 So the next blog post will be about a project where I investigate the possibilities of using neural nets for generating
 audio. I got a grant for this project from [Taike](https://www.taike.fi/) and I will be using this blog to keep a record
 of my experiences in the domain of [deep learning](https://en.wikipedia.org/wiki/Deep_learning) and
 [creative computing](https://en.wikipedia.org/wiki/Creative_computing).
+
+Welcome aboard!
