@@ -3,17 +3,18 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Montserrat', sans-serif;
     font-size: 1em;
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li {
     display: inline;
     margin-right: 20px;
     font-size: 1.2em;
 }
+
 footer ul li {
     display: inline;
     margin-right: 20px;
@@ -39,10 +40,16 @@ a:hover {
 li {
     color: #999;
     font-family: 'Montserrat', sans-serif;
-
 }
+
+nav li a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+    color: peru;
+}
+
 h1 {
-    font-size: 5em;
+    font-size: 4em;
     font-family: 'PT Serif', serif;
     padding: 0;
     margin: 0 0 0.2em 0;
@@ -117,3 +124,4 @@ hr.cv {
 .column-right {
     width: 75%;
 }
+
