@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d06247d5-10c0-46a9-9d45-72242cd81b6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/music/_posts/2020-04-10-plutonium-74-seitseman-vuoden-valein.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/_posts/2020-06-12-plutonium-74-matkalla-perille.md" beforeDir="false" afterPath="$PROJECT_DIR$/music/_posts/2020-06-12-plutonium-74-matkalla-perille.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/music/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_index" beforeDir="false" afterPath="$PROJECT_DIR$/all_music_references" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +80,7 @@
       <workItem from="1609161897106" duration="21174000" />
       <workItem from="1609194338327" duration="1181000" />
       <workItem from="1609196641024" duration="2755000" />
-      <workItem from="1609228484469" duration="5423000" />
+      <workItem from="1609228484469" duration="5659000" />
     </task>
     <servers />
   </component>
