@@ -23,6 +23,13 @@ a {
     text-decoration: none;
     color: #999;
     font-family: 'Montserrat', sans-serif;
+}
+
+a.links {
+    text-decoration: none;
+    color: #999;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
 
 }
 a:hover {
@@ -76,23 +83,12 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-family: 'Montserrat', sans-serif;
-
+    padding: 0;
 }
 
 ul.posts li {
-    list-style: none;
-}
-
-ul.records {
-    margin: 20px auto 40px;
-    font-size: 1.5em;
-    font-family: 'Montserrat', sans-serif;
-
-}
-
-ul.records li {
     list-style: none;
 }
 
@@ -100,7 +96,6 @@ hr.cv {
     margin-top: 3em;
     color: #d5d5d5;
 }
-
 
 .row {
     display: flex;

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Motivation"
+title: "Motivation behind this site"
 date: 2020-12-28
 ---
 
@@ -8,13 +8,13 @@ Let's begin.
 
 The very first post is about the purpose of my site [xpyx.fi](https://www.xpyx.fi/) and the motivation behind it.
 
-The web hosting is from [Suomen Hostingpalvelu Oy](https://www.hostingpalvelu.fi/) and I used
+My web hosting provider is [Suomen Hostingpalvelu Oy](https://www.hostingpalvelu.fi/) and I used
 [Jekyll](http://jekyllrb.com) to build the site with instructions from
 [Jonathan McGlone's](http://jmcglone.com/guides/github-pages/) absolutely superb guide.
 
 I never used Jekyll before, but it took me only a bit over 30 mins to get everything up and running.
 
-I will be using this site to host a plethora of links to subjects that interest me. I will try to do come up with a
+I will be using this site to host a plethora of links to subjects that interest me. I will try to come up with a
 blog post at least once a week.
 
 "Why all the trouble", you might ask.

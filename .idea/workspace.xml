@@ -21,9 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d06247d5-10c0-46a9-9d45-72242cd81b6c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/music/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/_posts/2020-12-28-xpyx-site-launched.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/_posts/2020-12-28-motivation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/links/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/links/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/blog/_posts/2020-12-28-xpyx-site-launched.md" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blog/_posts/2020-12-28-motivation.md" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1mHsYCu5lJgg6c5iLmKLRe1rUDt" />
   <component name="ProjectLevelVcsManager">
@@ -57,17 +57,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/music/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog/_posts" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/music" />
-      <recent name="$PROJECT_DIR$/blog" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/_posts" />
       <recent name="$PROJECT_DIR$/music/_posts" />
       <recent name="$PROJECT_DIR$/_records" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/_drafts" />
+      <recent name="$PROJECT_DIR$/music" />
+      <recent name="$PROJECT_DIR$/blog" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -82,7 +84,8 @@
       <workItem from="1609194338327" duration="1181000" />
       <workItem from="1609196641024" duration="2755000" />
       <workItem from="1609228484469" duration="5659000" />
-      <workItem from="1609240250637" duration="728000" />
+      <workItem from="1609240250637" duration="1004000" />
+      <workItem from="1609248036627" duration="2597000" />
     </task>
     <servers />
   </component>
