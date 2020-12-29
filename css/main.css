@@ -44,8 +44,10 @@ li {
 
 nav li a {
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.2em;
-    color: peru;
+    font-size: 1.1em;
+    color: tomato;
+    letter-spacing: 0.2em;
+
 }
 
 h1 {
