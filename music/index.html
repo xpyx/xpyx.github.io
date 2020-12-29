@@ -3,15 +3,14 @@ layout: default
 title: Music
 ---
 <h1>{{ page.title }}</h1>
-<ul class="posts">
 
-    <p>Here's a list of sound productions I'm somehow involved with, as a recording or a mixing engineer, producer
-        or a musician. Have a look.<br><br>
+<p>Here's a list of sound productions I'm somehow involved with, as a recording or a mixing engineer, producer
+    or a musician. Have a look.<br><br>
     Ps. I'm constantly adding productions on this list.</p>
 
-    {% for post in site.categories.music %}
+<ul class="posts">
 
+    {% for post in site.categories.music %}
     <li><span >{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endfor %}
-
 </ul>

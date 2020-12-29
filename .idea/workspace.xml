@@ -21,7 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d06247d5-10c0-46a9-9d45-72242cd81b6c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/music/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/blog/_posts/2020-12-28-xpyx-site-launched.md" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
-    <setting file="mock://diff.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1mHsYCu5lJgg6c5iLmKLRe1rUDt" />
   <component name="ProjectLevelVcsManager">
@@ -81,6 +82,7 @@
       <workItem from="1609194338327" duration="1181000" />
       <workItem from="1609196641024" duration="2755000" />
       <workItem from="1609228484469" duration="5659000" />
+      <workItem from="1609240250637" duration="728000" />
     </task>
     <servers />
   </component>
@@ -97,6 +99,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609184340146">
