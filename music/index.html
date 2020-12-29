@@ -2,90 +2,11 @@
 layout: default
 title: Music
 ---
+<h1>{{ page.title }}</h1>
+<ul class="records">
 
-<div class="music">
-    <h1>Music</h1>
-    <p>
-        Here's a list of published music I'm involved in some way    </p>
+    {% for record in site.records %}
+    <li><span>{{ record.date | date_to_string }}</span> &raquo; <a href="{{ record.url }}" title="{{ record.title }}">{{ record.title }}</a></li>
+    {% endfor %}
 
-    <ul class="contacts">
-    </ul>
-
-
-
-
-
-
-<p>2020</p>
-<p>
-    Plutonium 74: “Matkalla perille” (TWINLP231) -
-    <a herf="https://open.spotify.com/album/7JQkWFF8CivC9xyvOT60l6?si=y9tzZkwgQPuYQvE_RkS3HA">Spotify</a><br />
-    - Composition, arrangement, recording, sound engineering &amp; producing
-</p>
-<p>
-    Plutonium 74: "Seitsemän vuoden välein" (STUPIDO 309) -
-    <a href="https://open.spotify.com/track/47d4umU7Lu3iyPDnLQayEe?si=rhQ6CiyKSEaVJio4FHsEkA">Spotify</a><br />
-    - Composition, arrangement, recording, sound engineering &amp; producing
-</p>
-
-    <p>2019</p>
-<p>Plutonium 74: “Jonotusmusa” (STUPIDO 292) - <a href="https://open.spotify.com/album/4v7gr16TM3jtB4OQWSHnia?si=E7RMvCfOSliY1hhSlIWucw">Spotify</a><br />- Composition, arrangement, recording, sound engineering &amp; producing</p>
-<p>2018</p>
-<p>Plutonium 74: “Pertin hokkarit” (STUPIDO 262) - <a href="https://open.spotify.com/album/011qJUhWpit9HCC0J5KDii?si=cRF3rI-ATDSCOL0plI7RsQ">Spotify</a><br />- Composition, arrangement, recording, sound engineering &amp; producing</p>
-<p>Kyyn Eleet: “Nahkaleili 5L” (RAPU-076) - <a href="https://open.spotify.com/album/4b4IeordU3KTympruUCZDJ?si=Cn37FpA4Ql2jZzc-qq_NIQ">Spotify</a><br />- Composition, arrangement, recording, sound engineering &amp; producing</p>
-<p>2016</p>
-<p>Plutonium 74: “Muistatko tämän laulun?” (STUPIDO 169) - <a href="https://open.spotify.com/album/3FpTIYbWC0la16GJKTfOLr?si=HmdviY5HSs6sWL0s7xAbKg">Spotify</a><br />- Composition, arrangement, recording, sound engineering &amp; producing</p>
-<p>Plutonium 74: “Aleksis kiven kadulla” (STUPIDO 166) - <a href="https://open.spotify.com/album/1Po1Oas4X8SXX3CyVgJw0T?si=x4TZYsHDRjqBqxu4NHk8vg">Spotify</a><br />- Composition, arrangement, recording, sound engineering &amp; producing</p>
-<p>Mutka-Orkesteri: “Ei nyt, ehkä myöhemmin” (RAPU-064) - <a href="https://open.spotify.com/album/006EEENjttNS2zXpW9v7z4?si=EG31S2BATNaoSGpwT1w56w">Spotify</a><br />- recording, sound engineering &amp; producing</p>
-<p>Kyyn Eleet: “Sarkomaagi” (RAPU-051) - <a href="https://open.spotify.com/album/36sPnbbONJdtyR63Tj6zsL?si=-so_u7D4S8Oh2jYjzvt7Mw">Spotify</a><br />- Composition, arrangement, recording, sound engineering &amp; producing</p>
-<p>2015</p>
-<p>Polkuharmonix: “Triangeli” (ROIHIS MUSICA) - <a href="https://open.spotify.com/album/3dDXgOGzlq6DG3Qa14kOV4?si=w47Q402hSfub26fZPIAcog">Spotify</a><br />- sound engineering</p>
-<p>Emesis: “Aava” (RAPU-031) - <a href="https://open.spotify.com/album/3apmsngdb8vBqRg8YBxVFP?si=O9oUB_vBRLeE-64dy1Fx4w">Spotify</a><br />- sound engineering &amp; producing</p>
-<p>2014</p>
-<p>Aino Venna: “Tin Roof” (TWIN-144) - <a href="https://open.spotify.com/album/0N5ZRGJvGSCnuscvU69waV?si=9zwUCwqhRviXUwTRnQTKPQ">Spotify</a><br />- arrangement, recording, sound engineering &amp; producing</p>
-<p>Samat Nimet: “Älä yritä mitään” (RAPU-029) - <a href="https://open.spotify.com/album/13Md6OxGMg7OfbTfqU0ymE?si=0l4Fwf4YQi673acjeOsr6Q">Spotify</a><br />- recording, sound engineering &amp; producing</p>
-<p>Kap Kap: “Flux of solace” (RAPU-023) - <a href="https://open.spotify.com/album/4shgI9WUzOkQX7eBLobNLu?si=hKkVn-Z7Sze7cUlajNmaVw" target="_blank" rel="noopener">Spotify</a><br />- sound engineering</p>
-<p>Spigu: “Kaupunkien yössä” (RAPU-021) - <a href="https://open.spotify.com/album/3STv0jVuYktsFDjdXxLDvi?si=f5DVqritTOq4vX-Fd7VfQA">Spotify</a><br />- Composition, arrangement, recording, sound engineering &amp; producing</p>
-<p>SOFA: “Se on fakin aitoo -EP” (RAPU-018) - <a href="https://open.spotify.com/album/7Com8caSSCcTZ2xwQVCXnS?si=synojf4VQaCq5o3_hb1RLQ" target="_blank" rel="noopener">Spotify</a><br />- recording, sound engineering &amp; producing</p>
-<p>2013</p>
-<p>SOFA: Lisää lempee (RAPU-015) Download<br /><a href="https://www.youtube.com/watch?v=Yc0fq1FcYsI" target="_blank" rel="noopener">Lisää lempee -musiikkivideo</a><br />- recording, sound engineering &amp; producing</p>
-<p>Yhdentekevää: Vesihiisibiisi feat. Ylpee Isäntä (RAPU-014) Download<br /><a href="https://www.youtube.com/watch?v=oXVfEy5iAn8" target="_blank" rel="noopener">Vesihiisibiisi -musiikkivideo</a><br />- Soitto, recording, sound engineering &amp; producing</p>
-<p>Okko Nuotio: We´re still running (RAPU-013) Download<br /><a href="https://www.youtube.com/watch?v=drJfL1HHHyQ" target="_blank" rel="noopener">We´re still running -musiikkivideo</a><br />- Soitto, recording, sound engineering &amp; producing</p>
-<p>Spigu &amp; Kuristajat: Herra Tarkastaja EP (RAPU-012) 7" &amp; Download<br /><a href="https://www.youtube.com/watch?v=259bWj71WJ8" target="_blank" rel="noopener">Herra Tarkastaja -musiikkivideo</a><br />- Soitto, recording, sound engineering &amp; producing</p>
-<p>Debbiefox: Debbiefox EP (RAPU-011) Download &amp; CD-R<br /><a href="https://www.facebook.com/pages/Debbiefox/204947642862820" target="_blank" rel="noopener">Debbiefox @ Facebook</a><br />- recording, sound engineering &amp; producing</p>
-<p>SOFA: Kuumempi kesä (RAPU-010) Download &amp; Musiikkivideo<br /><a href="https://www.youtube.com/watch?v=D5aL_tqr9Ns" target="_blank" rel="noopener">Kuumempi kesä -musiikkivideo</a><br />- producing</p>
-<p>Cold Pupu Sauna: Thexno Anthem (RAPU-009) Download &amp; Musiikkivideo<br /><a href="https://www.youtube.com/watch?v=qpqbiEwbBBs" target="_blank" rel="noopener">Cold Pupu Sauna - Thexno Anthem @ Youtube.com</a><br />- sound engineering</p>
-<p>Aino Venna: Marlene (BU035 / BU035LP) CD &amp; LP<br /><a href="http://www.besteunterhaltung.biz/Aino%20Venna.html" target="_blank" rel="noopener">Aino Venna @ Beste! Unterhaltung</a><br />- recording, producing, musician: percussion &amp; machines, jouset, taustalaulut</p>
-<p>Shotgun Club: JFK (Stupido-115) CD<br /><a href="https://www.facebook.com/pages/Shotgun-Club/170671599157" target="_blank" rel="noopener">Shotgun Club Facebook</a><br />- recording, producing, musician: percussion, kitarat, jouset, taustalaulut</p>
-<p>Spigu: Herra Tarkastaja (RAPU-008) Download<br /><a href="https://www.facebook.com/pages/Spigu/650020551690096?fref=ts" target="_blank" rel="noopener">Spigu Facebook</a><br />- recording, producing, sound engineering, musician: kitarat, basso, percussion, taustalaulut</p>
-<p>Ona Neumann: Huoltoasema (RAPU-007) Download<br /><a href="https://www.facebook.com/pages/Ona-Neumann/236011373206076?fref=ts" target="_blank" rel="noopener">Ona Neumann Facebook</a><br />- recording, producing, musician: kitarat, mandoliini</p>
-<p>Sarah Kivi &amp; Non-Orchestra: Kiveen kirjoitettu (RMLP12 &amp; RMCD12) LP &amp; CD<br /><a href="https://www.facebook.com/sarahkiviofficial" target="_blank" rel="noopener">Sarah Kivi Facebook</a><br />- recording, producing, musician: percussion, machines, kitarat, jouset, taustalaulut</p>
-<p>Sarah Kivi &amp; Non-Orchestra: Booty Call Blues / Leikkokukka (RM11) 7"<br /><a href="https://www.facebook.com/sarahkiviofficial" target="_blank" rel="noopener">Sarah Kivi Facebook</a><br />- recording, producing, musician: percussion, machines, kitarat, jouset, taustalaulut</p>
-<p>2012</p>
-<p>Aino Venna: Marlene (TWINCD-137) CD<br /><a href="http://www.ainovenna.com" target="_blank" rel="noopener">http://www.ainovenna.com</a><br />- recording, producing, musician: percussion &amp; machines</p>
-<p>Aino Venna: Waltz to Paris EP (RAPU-006) CD-R<br /><a href="http://www.ainovenna.com" target="_blank" rel="noopener">http://www.ainovenna.com</a><br />- recording, producing, musician: percussion &amp; machines</p>
-<p>2011</p>
-<p>Plutonium 74: Porkkana ja nauris  (Stupido-105) 12"<br /><a href="https://open.spotify.com/album/3aZtDRqORsrz9skjfXx3VW?si=UO9g4kkcQ3CXpoNsiv9C6Q" target="_blank" rel="noopener">Spotify</a><br />- recording, producing, composition, arrangement</p>
-<p>Admiral Black: Phantasmagoric (HAZ080 &amp; HAZ080V) CD &amp; LP<br /><a href="http://www.myspace.com/admiralblackmusic" target="_blank" rel="noopener">http://www.myspace.com/admiralblackmusic</a><br />- recording, musician: drums in the song "The Fisherman And His Soul"</p>
-<p>2010</p>
-<p>Mueran Humanos: “S/T” (OECD 138 &amp; BPR005) CD &amp; LP<br /><a href="http://www.mueranhumanos.com/" target="_blank" rel="noopener">http://www.mueranhumanos.com/</a><br />- recording, producing, sound engineering</p>
-<p>2008</p>
-<p>Norman Palm: ”Songs” (RR014) CD &amp; LP<br /><a href="http://cargocollective.com/normanpalm" target="_blank" rel="noopener">http://cargocollective.com/normanpalm</a><br />- musician: drums in the song "Rent a cat"</p>
-<p>Plutonium 74: ”Peittoalueen ulkopuolella” (TWINCD-97) CD<br /><a href="https://open.spotify.com/album/1mckkgHhm3zXhaASOn1Yx7?si=5tzPoMUsTgWgzdiPtUrqzA">Spotify</a><br />- recording, producing, composition, sanoitus, arrangement</p>
-<p>Kap Kap: ”Kap Kap” (PIN12003) 12"<br /><a href="http://www.myspace.com/kapkapband">http://www.myspace.com/kapkapband</a><br />- recording</p>
-<p>2007</p>
-<p>Smultronik: ”Smultronik” (SMEP-1) 12”<br /><a href="http://www.myspace.com/smultronik">http://www.myspace.com/smultronik</a><br />- recording, producing, sound engineering</p>
-<p>2006</p>
-<p>Tundramatiks: “Kyy pivossa” (DBR 007) CD<br /><a href="http://www.tundramatiks.com/">http://www.tundramatiks.com/</a><br />- recording: song "Kotia kohden"</p>
-<p>Yleisradion Super-Farmi tv-ohjelman tunnusmusiikki<br />- recording, producing, sound engineering</p>
-<p>2005</p>
-<p>Superchrist: “Colorgun” (DBR 004) CD<br /><a href="https://open.spotify.com/album/6BjXFw3IuHGnfs2x3m829t?si=9JhZ8erYTDaD5r1qD42o6w">Spotify</a><br />- recording: song "Place to give"</p>
-<p>Various: “Bassoradio compilation” (BRCD001) CD<br /><a href="http://www.discogs.com/Various-Bassoradio-Compilation/release/560740">http://www.discogs.com/Various-Bassoradio-Compilation/release/560740</a><br />- musician: drums in the song "Monterosso"</p>
-<p>LBJ: ”Live material” (NEXT01CD) CD<br /><a href="http://www.kaikustudios.com/">http://www.kaikustudios.com/</a><br />- musician: drums</p>
-<p>2004</p>
-<p>Various artists: “Coffee Breaks“ (925-C 001FCD) CD<br /><a href="http://www.nine2fiveoffice.com/">http://www.nine2fiveoffice.com/</a><br />- musician: drums in the song "Sun moka"</p>
-<p>Tohtori Eino Vihreä: ”Noitalauluja” (RAPU-003) CD<br />- recording, producing, sound engineering</p>
-<p>2003</p>
-<p>Plutonium 74: ”Pasilasta Kallioon” (RAPU-001) CD<br /><a href="https://open.spotify.com/album/1cOK3KNDpV2OSbXG6nZSyX?si=foZlp5HqTvyx-hzMQDnyHg" target="_blank" rel="noopener">Spotify</a><br />- recording, producing, composition, sanoitus, arrangement</p>
-<p>Kuja Orchestra: ”Säätäjä sapiens / Ngoma” (PIN7001) 7”<br /><a href="http://www.myspace.com/kujaorchestra" target="_blank" rel="noopener">http://www.myspace.com/kujaorchestra</a><br />- recording, sound engineering, masterointi</p>
-</div>
+</ul>
