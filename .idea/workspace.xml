@@ -22,9 +22,6 @@
     <list default="true" id="d06247d5-10c0-46a9-9d45-72242cd81b6c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/_drafts/2020-12-29-setting-up-gce-for-training.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/_drafts/2020-12-29-setting-up-gce-for-training.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/links/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/links/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/music/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +84,7 @@
       <workItem from="1609196641024" duration="2755000" />
       <workItem from="1609228484469" duration="5659000" />
       <workItem from="1609240250637" duration="1004000" />
-      <workItem from="1609248036627" duration="4463000" />
+      <workItem from="1609248036627" duration="4977000" />
     </task>
     <servers />
   </component>
