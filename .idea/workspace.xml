@@ -20,15 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d06247d5-10c0-46a9-9d45-72242cd81b6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/music/_posts/2020-04-10-plutonium-74-seitseman-vuoden-valein.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/record.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-12-28-xpyx-site-launched.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/_posts/2020-12-28-xpyx-site-launched.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_records/2020-06-12-plutonium-74-matkalla-perille.md" beforeDir="false" afterPath="$PROJECT_DIR$/music/_posts/2020-06-12-plutonium-74-matkalla-perille.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/_posts/2020-06-12-plutonium-74-matkalla-perille.md" beforeDir="false" afterPath="$PROJECT_DIR$/music/_posts/2020-06-12-plutonium-74-matkalla-perille.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/music/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_index" beforeDir="false" afterPath="$PROJECT_DIR$/all_music_references" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_records" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/music/_posts" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -72,6 +69,7 @@
       <recent name="$PROJECT_DIR$/blog" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/music/_posts" />
       <recent name="$PROJECT_DIR$/_records" />
     </key>
   </component>
@@ -86,7 +84,7 @@
       <workItem from="1609161897106" duration="21174000" />
       <workItem from="1609194338327" duration="1181000" />
       <workItem from="1609196641024" duration="2755000" />
-      <workItem from="1609228484469" duration="3449000" />
+      <workItem from="1609228484469" duration="5423000" />
     </task>
     <servers />
   </component>

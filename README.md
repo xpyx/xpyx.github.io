@@ -1,5 +1,5 @@
 # xpyx.github.io
 
-My professional wesite and blog.
+My professional website and blog.
 
 Built with Jekyll and GitHub pages.
