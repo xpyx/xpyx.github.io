@@ -17,6 +17,7 @@ nav ul li {
 }
 
 footer ul li {
+    margin-top: 1em;
     display: inline;
     margin-right: 20px;
     font-size: 0.9em;
@@ -90,8 +91,10 @@ p {
     margin: 0 0 1em 0;
 }
 footer {
+    margin-top: 4em;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+
 }
 
 ul.posts { 
